@@ -1,7 +1,7 @@
 # **PYTHON BATTLESHIP**
-### Objects Oriented Programing Proyect
+### Objects Oriented Programing Project
 ---
-This is a _simple proyect_ to **practice skills** acquired in **university** and **self-taugh way** :).
+This is a _simple project_ to **practice skills** acquired in **university** and **self-taugh way** :).
 
 ### Objectives:
 _ _ _
